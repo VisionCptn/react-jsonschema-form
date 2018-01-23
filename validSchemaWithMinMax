@@ -168,7 +168,7 @@
                       "description": "Maximum value of the integer",
                       "type": "integer"
                     }
-                  }
+                  },
                   "required": [
                     "min",
                     "max"
