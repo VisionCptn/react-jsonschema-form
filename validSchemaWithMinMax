@@ -167,10 +167,10 @@
                       "title": "Max",
                       "description": "Maximum value of the integer",
                       "type": "integer"
-                    },
+                    }
                   },
                   "required": [
-                    "min"
+                    "min","max"
                   ]
                 },
                 {
